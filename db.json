@@ -1,0 +1,54 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "admin ",
+      "email": "admin@gmail.com",
+      "password": "Admin123",
+      "status": "active",
+      "picture": "data:image/png;base64,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"
+    },
+    {
+      "id": "2",
+      "name": "anu",
+      "email": "anu@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "3",
+      "name": "amala",
+      "email": "amala@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "4",
+      "name": "anju",
+      "email": "anju@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "5",
+      "name": "aisu",
+      "email": "aisu@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "10",
+      "name": "nayana",
+      "email": "nayana@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "8",
+      "name": "kavya",
+      "email": "kavya@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "19",
+      "name": "hima",
+      "email": "hima@gmail.com",
+      "status": "1"
+    }
+  ]
+}
